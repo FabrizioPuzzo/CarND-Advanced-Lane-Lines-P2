@@ -3,7 +3,7 @@
 
 ---
 
-This repo contains my solution to the Kidnapped Vehicle Project for Udacity's Self-Driving Car Engineer Nanodegree Program.
+This repo contains my solution to the Advanced Lane Finding Project for Udacity's Self-Driving Car Engineer Nanodegree Program.
 
 ---
 
